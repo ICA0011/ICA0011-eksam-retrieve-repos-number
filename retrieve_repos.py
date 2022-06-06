@@ -1,4 +1,4 @@
-import requests
+import requests, json
 
 username = "talisainen"
 def retrieve_repos(username):
